@@ -1,0 +1,17 @@
+pip install SpeechRecognition 
+pip install moviepy
+pip install googlesearch-python
+pip install python-socketio
+pip install sockets
+pip install geocoder
+pip install folium
+pip install python-time
+pip install thread6
+pip install threaded
+python3 -m pip install threading
+python3 -m pip install thread
+pip install pqueue
+pip install pyqrcode 
+pip install QRCode
+pip install os-sys
+
